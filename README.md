@@ -1,2 +1,2 @@
 # projeto-site-aula-git
- Projeto site na aua do curso Git
+ Projeto site na  Aula de Git e Github
